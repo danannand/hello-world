@@ -1,2 +1,3 @@
 # hello-world
 Location for test and build scripts
+And basically learning the world of github etc...
